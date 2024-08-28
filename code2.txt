@@ -1,0 +1,4 @@
+The term is sometimes used quite loosely, to mean files that contain only "readable" content
+(or just files with nothing that the speaker does not prefer). 
+For example, that could exclude any indication of fonts or layout (such as markup, markdown, or even tabs); 
+characters such as curly quotes, non-breaking spaces, soft hyphens, em dashes, and/or ligatures; or other things.
